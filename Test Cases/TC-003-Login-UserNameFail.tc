@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-003-Login-UserNameFail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f93ea2b-c8a4-4283-a35c-01947b10d5ac</testCaseGuid>
+   <variable>
+      <defaultValue>'JonhDoe'</defaultValue>
+      <description></description>
+      <id>9fe961e8-2b5d-4795-827f-7ca2acfd1051</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>adc31d43-591e-4d62-9c6e-27380a0e18f6</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

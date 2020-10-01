@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-002-verify-element-text-fail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19b53787-3fce-4d84-8cd8-abc7c73fd690</testCaseGuid>
+   <variable>
+      <defaultValue>'Jonh Doe\r\n'</defaultValue>
+      <description></description>
+      <id>b321da22-7d14-4692-9e59-c41d36f97f61</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>9d5e3467-fb43-4fb0-a1d6-7170f970380a</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+</TestCaseEntity>
